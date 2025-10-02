@@ -1,0 +1,69 @@
+## ========================
+## .NET / Visual Studio
+## ========================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+bld/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# Build results on 'Bin' directories
+**/[Bb]in/*
+
+# Visual Studio cache
+.vs/
+
+# Others (database, keys, publish settings)
+*.mdf
+*.ldf
+*.ndf
+*.pfx
+*.publishsettings
+
+# Environment variables
+*.env
+*.env.local
+
+# IDE configs
+.vscode/
+.idea/
+
+## ========================
+## Node.js / React
+## ========================
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+coverage/
+*.lcov
+
+# Misc
+.DS_Store
