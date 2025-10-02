@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xZpvyEXk3Jbm6zbrL70dlqjx6AIrggTVpwyYPHJ4cZc=",
+  "Hash": "FufGGgstlsdIrg5VoAvN+afdaHDZ8QsI02fa+C+BWm4=",
   "Source": "UmaCardAPI",
   "BasePath": "_content/UmaCardAPI",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\tokai_teio_01.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\uploads\\55959443-fd94-4d71-8f81-b1b86a4d30da.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "uploads/55959443-fd94-4d71-8f81-b1b86a4d30da#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "beg9rvaazu",
+      "Integrity": "vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\55959443-fd94-4d71-8f81-b1b86a4d30da.png"
     }
   ],
   "Endpoints": [
@@ -324,6 +345,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-WXudJmPgTuIh2R0Dqofmb4cWr1wzHez+oalLa+3DmPQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55959443-fd94-4d71-8f81-b1b86a4d30da.beg9rvaazu.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\uploads\\55959443-fd94-4d71-8f81-b1b86a4d30da.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Oct 2025 06:20:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "beg9rvaazu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/55959443-fd94-4d71-8f81-b1b86a4d30da.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55959443-fd94-4d71-8f81-b1b86a4d30da.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\uploads\\55959443-fd94-4d71-8f81-b1b86a4d30da.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Oct 2025 06:20:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI="
         }
       ]
     }

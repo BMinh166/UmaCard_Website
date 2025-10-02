@@ -170,4 +170,4 @@ D:\BM\Code\Uma card\Backend\UmaCardAPI\UmaCardAPI\obj\Debug\net8.0\UmaCardAPI.pd
 D:\BM\Code\Uma card\Backend\UmaCardAPI\UmaCardAPI\obj\Debug\net8.0\UmaCardAPI.genruntimeconfig.cache
 D:\BM\Code\Uma card\Backend\UmaCardAPI\UmaCardAPI\obj\Debug\net8.0\ref\UmaCardAPI.dll
 D:\BM\Code\Uma card\Backend\UmaCardAPI\UmaCardAPI\bin\Debug\net8.0\UmaCardAPI.staticwebassets.runtime.json
-D:\BM\Code\Uma card\Backend\UmaCardAPI\UmaCardAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\BM\Code\Uma card\Backend\UmaCardAPI\UmaCardAPI\obj\Debug\net8.0\UmaCardAPI.sourcelink.json

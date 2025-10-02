@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\images\\tokai_teio_01.png"
     },
     {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\uploads\\55959443-fd94-4d71-8f81-b1b86a4d30da.png",
+      "PackagePath": "staticwebassets\\uploads\\55959443-fd94-4d71-8f81-b1b86a4d30da.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UmaCardAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

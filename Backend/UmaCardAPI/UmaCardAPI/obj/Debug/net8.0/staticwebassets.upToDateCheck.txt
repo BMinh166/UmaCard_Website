@@ -1,3 +1,0 @@
-wwwroot\images\kitasan_black_01.png
-wwwroot\images\mejiro_mcqueen_01.png
-wwwroot\images\tokai_teio_01.png
