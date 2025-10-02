@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kitasan_black_01.png",
+      "PackagePath": "staticwebassets\\images\\kitasan_black_01.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_mcqueen_01.png",
+      "PackagePath": "staticwebassets\\images\\mejiro_mcqueen_01.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\tokai_teio_01.png",
+      "PackagePath": "staticwebassets\\images\\tokai_teio_01.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UmaCardAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UmaCardAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UmaCardAPI.props",
+      "PackagePath": "build\\UmaCardAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UmaCardAPI.props",
+      "PackagePath": "buildMultiTargeting\\UmaCardAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UmaCardAPI.props",
+      "PackagePath": "buildTransitive\\UmaCardAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

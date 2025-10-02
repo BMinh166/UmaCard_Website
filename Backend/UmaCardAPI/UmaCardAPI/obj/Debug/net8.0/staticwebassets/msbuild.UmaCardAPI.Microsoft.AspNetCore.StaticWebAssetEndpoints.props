@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/UmaCardAPI/images/kitasan_black_01.beg9rvaazu.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kitasan_black_01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"beg9rvaazu"},{"Name":"integrity","Value":"sha256-vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI="},{"Name":"label","Value":"_content/UmaCardAPI/images/kitasan_black_01.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"114504"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 05:27:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UmaCardAPI/images/kitasan_black_01.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\kitasan_black_01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"114504"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 05:27:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UmaCardAPI/images/mejiro_mcqueen_01.bniesvb06i.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mejiro_mcqueen_01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bniesvb06i"},{"Name":"integrity","Value":"sha256-GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE="},{"Name":"label","Value":"_content/UmaCardAPI/images/mejiro_mcqueen_01.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108180"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 05:27:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UmaCardAPI/images/mejiro_mcqueen_01.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mejiro_mcqueen_01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"108180"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 05:27:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UmaCardAPI/images/tokai_teio_01.hicgcb8bc2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tokai_teio_01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hicgcb8bc2"},{"Name":"integrity","Value":"sha256-WXudJmPgTuIh2R0Dqofmb4cWr1wzHez\u002BoalLa\u002B3DmPQ="},{"Name":"label","Value":"_content/UmaCardAPI/images/tokai_teio_01.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"111955"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WXudJmPgTuIh2R0Dqofmb4cWr1wzHez\u002BoalLa\u002B3DmPQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 05:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UmaCardAPI/images/tokai_teio_01.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\tokai_teio_01.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WXudJmPgTuIh2R0Dqofmb4cWr1wzHez\u002BoalLa\u002B3DmPQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"111955"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022WXudJmPgTuIh2R0Dqofmb4cWr1wzHez\u002BoalLa\u002B3DmPQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 05:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

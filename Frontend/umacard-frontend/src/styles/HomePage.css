@@ -1,0 +1,23 @@
+.add-card-btn {
+  background: #43a047;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: background 0.2s;
+}
+.add-card-btn:hover {
+  background: #2e7031;
+}
+
+.homepage-header {
+  text-align: center;
+  margin: 32px 0 24px 0;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1976d2;
+}

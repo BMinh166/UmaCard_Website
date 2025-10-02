@@ -1,0 +1,6 @@
+@UmaCardAPI_HostAddress = http://localhost:5034
+
+GET {{UmaCardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

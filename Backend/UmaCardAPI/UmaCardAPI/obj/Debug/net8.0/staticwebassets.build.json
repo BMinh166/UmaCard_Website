@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "xZpvyEXk3Jbm6zbrL70dlqjx6AIrggTVpwyYPHJ4cZc=",
+  "Source": "UmaCardAPI",
+  "BasePath": "_content/UmaCardAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UmaCardAPI\\wwwroot",
+      "Source": "UmaCardAPI",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kitasan_black_01.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/kitasan_black_01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "beg9rvaazu",
+      "Integrity": "vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kitasan_black_01.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_mcqueen_01.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/mejiro_mcqueen_01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bniesvb06i",
+      "Integrity": "GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mejiro_mcqueen_01.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\tokai_teio_01.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/tokai_teio_01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hicgcb8bc2",
+      "Integrity": "WXudJmPgTuIh2R0Dqofmb4cWr1wzHez+oalLa+3DmPQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tokai_teio_01.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/kitasan_black_01.beg9rvaazu.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kitasan_black_01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 05:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "beg9rvaazu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/kitasan_black_01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI="
+        }
+      ]
+    },
+    {
+      "Route": "images/kitasan_black_01.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kitasan_black_01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 05:27:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vU07BNbiRrq9lS9CvT3G7lEH4IxAOvwQonVwy4ZnovI="
+        }
+      ]
+    },
+    {
+      "Route": "images/mejiro_mcqueen_01.bniesvb06i.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_mcqueen_01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 05:27:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bniesvb06i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mejiro_mcqueen_01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/mejiro_mcqueen_01.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_mcqueen_01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 05:27:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/tokai_teio_01.hicgcb8bc2.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\tokai_teio_01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WXudJmPgTuIh2R0Dqofmb4cWr1wzHez+oalLa+3DmPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 05:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hicgcb8bc2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tokai_teio_01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WXudJmPgTuIh2R0Dqofmb4cWr1wzHez+oalLa+3DmPQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/tokai_teio_01.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\tokai_teio_01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WXudJmPgTuIh2R0Dqofmb4cWr1wzHez+oalLa+3DmPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 05:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WXudJmPgTuIh2R0Dqofmb4cWr1wzHez+oalLa+3DmPQ="
+        }
+      ]
+    }
+  ]
+}
