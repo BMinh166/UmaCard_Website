@@ -4,9 +4,9 @@ using UmaCardAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Kết nối SQL Server
+// Kết nối PostgreSQL với cấu hình EF Core
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Controller + Swagger
 builder.Services.AddControllers();
@@ -57,7 +57,8 @@ try
 }
 catch (Exception ex)
 {
-    Console.WriteLine($"Migration failed: {ex.Message}");
+    Console.WriteLine("Migration failed:");
+    Console.WriteLine(ex.ToString());
 }
 
 // Middleware
