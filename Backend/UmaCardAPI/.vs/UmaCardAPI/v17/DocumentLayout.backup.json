@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|d:\\bm\\code\\uma card\\backend\\umacardapi\\umacardapi\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|solutionrelative:umacardapi\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|d:\\bm\\code\\uma card\\backend\\umacardapi\\umacardapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|solutionrelative:umacardapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|d:\\bm\\code\\uma card\\backend\\umacardapi\\umacardapi\\controllers\\umacardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|solutionrelative:umacardapi\\controllers\\umacardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|d:\\bm\\code\\uma card\\backend\\umacardapi\\umacardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|d:\\bm\\code\\uma card\\backend\\umacardapi\\umacardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|solutionrelative:umacardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|d:\\bm\\code\\uma card\\backend\\umacardapi\\umacardapi\\controllers\\umacardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|solutionrelative:umacardapi\\controllers\\umacardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FBFF871-636C-4477-8BB7-4E1551520DE6}|UmaCardAPI\\UmaCardAPI.csproj|d:\\bm\\code\\uma card\\backend\\umacardapi\\umacardapi\\models\\umacard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "UmaCardAPI\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "UmaCardAPI\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T12:10:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UmaCardController.cs",
               "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Controllers\\UmaCardController.cs",
               "RelativeDocumentMoniker": "UmaCardAPI\\Controllers\\UmaCardController.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\appsettings.json",
               "RelativeDocumentMoniker": "UmaCardAPI\\appsettings.json",
@@ -88,20 +105,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "UmaCardAPI\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Data\\AppDbContext.cs",
               "RelativeToolTip": "UmaCardAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T04:00:57.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UmaCard.cs",
               "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Models\\UmaCard.cs",
               "RelativeDocumentMoniker": "UmaCardAPI\\Models\\UmaCard.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Program.cs",
               "RelativeDocumentMoniker": "UmaCardAPI\\Program.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UmaCardAPI\\Properties\\launchSettings.json",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "UmaCardAPI\\appsettings.Development.json",

@@ -4,27 +4,33 @@ using UmaCardAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Kết nối PostgreSQL với cấu hình EF Core
+// ---------------------- DATABASE ----------------------
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Controller + Swagger
+// ---------------------- CONTROLLERS + SWAGGER ----------------------
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// CORS cho React
+// ---------------------- CORS (Cho phép React) ----------------------
+// Đọc FRONTEND_ORIGINS từ biến môi trường (ví dụ: "http://localhost:5173,https://your-vercel-domain")
+// Nếu không có env var thì mặc định là http: //localhost:5173
+var originsEnv = builder.Configuration["FRONTEND_ORIGINS"] ?? "http://localhost:5173";
+var allowedOrigins = originsEnv
+    .Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactApp",
-        policy => policy.WithOrigins("http://localhost:5173")
-                        .AllowAnyHeader()
-                        .AllowAnyMethod());
+    options.AddPolicy("AllowReactApp", policy =>
+        policy.WithOrigins(allowedOrigins)   // truyền mảng string[]
+              .AllowAnyHeader()
+              .AllowAnyMethod());
 });
 
 var app = builder.Build();
 
-// Tự migrate & seed data
+// ---------------------- MIGRATION + SEED DATA ----------------------
 try
 {
     using var scope = app.Services.CreateScope();
@@ -61,21 +67,22 @@ catch (Exception ex)
     Console.WriteLine(ex.ToString());
 }
 
-// Middleware
+// ---------------------- MIDDLEWARE ----------------------
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
-app.UseCors(policy =>
-{
-    policy.AllowAnyOrigin()
-          .AllowAnyHeader()
-          .AllowAnyMethod();
-});
+
+// ⚡ Dùng đúng policy CORS đã cấu hình (AllowReactApp)
+app.UseCors("AllowReactApp");
 
 app.UseAuthorization();
-
-app.UseSwagger();
-app.UseSwaggerUI();
-
 app.MapControllers();
+
+// ---------------------- RUN APP ----------------------
 app.Run();

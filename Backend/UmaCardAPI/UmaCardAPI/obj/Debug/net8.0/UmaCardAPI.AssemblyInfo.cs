@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UmaCardAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b169251d93600e27056046385fa704fa3956a776")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c917747c8ffd99a4a95ff92337e1b51a9c182fdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("UmaCardAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UmaCardAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
