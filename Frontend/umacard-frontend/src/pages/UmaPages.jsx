@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import UmaDetails from '../components/UmaDetails';
+import { getCardById } from '../api/umacard';
 
 function UmaPages() {
   const { id } = useParams();
@@ -10,9 +11,7 @@ function UmaPages() {
   useEffect(() => {
     async function fetchCard() {
       try {
-        const res = await fetch(`https://localhost:7288/api/umacard/${id}`);
-        if (!res.ok) throw new Error('Không tìm thấy thẻ.');
-        const data = await res.json();
+        const data = await getCardById(id);
         setCard(data);
       } catch (err) {
         setError(err.message);

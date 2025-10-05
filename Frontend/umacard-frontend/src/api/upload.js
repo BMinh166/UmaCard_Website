@@ -1,13 +1,20 @@
+import axios from 'axios';
+
 // Upload ảnh lên backend, trả về đường dẫn ảnh
+const BASE = import.meta.env.VITE_API_URL || 'http://localhost:5034';
+
 export async function uploadImage(file) {
   const formData = new FormData();
   formData.append('file', file);
-  const response = await fetch('https://localhost:7288/api/umacard/upload', {
-    method: 'POST',
-    body: formData
+
+  const client = axios.create({ baseURL: `${BASE}/api/umacard`, timeout: 20000 });
+
+  const res = await client.post('/upload', formData, {
+    headers: { 'Content-Type': 'multipart/form-data' }
   });
-  if (!response.ok) throw new Error('Upload ảnh thất bại');
-  return await response.text(); // hoặc response.json() tuỳ backend trả về
+
+  // Giả sử backend trả về đường dẫn ảnh (string) hoặc object { url }
+  return res.data;
 }
 
 // ...existing code...
