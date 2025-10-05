@@ -1,12 +1,68 @@
 {
   "Files": [
     {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\fine_motion.png",
+      "PackagePath": "staticwebassets\\images\\fine_motion.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\gold_city.png",
+      "PackagePath": "staticwebassets\\images\\gold_city.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\haru_urara.png",
+      "PackagePath": "staticwebassets\\images\\haru_urara.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kawakami_princess.png",
+      "PackagePath": "staticwebassets\\images\\kawakami_princess.png"
+    },
+    {
       "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kitasan_black_01.png",
       "PackagePath": "staticwebassets\\images\\kitasan_black_01.png"
     },
     {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_dober.png",
+      "PackagePath": "staticwebassets\\images\\mejiro_dober.png"
+    },
+    {
       "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_mcqueen_01.png",
       "PackagePath": "staticwebassets\\images\\mejiro_mcqueen_01.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\nishino_flower.png",
+      "PackagePath": "staticwebassets\\images\\nishino_flower.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\oguri_cap.png",
+      "PackagePath": "staticwebassets\\images\\oguri_cap.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_bakushin_o.png",
+      "PackagePath": "staticwebassets\\images\\sakura_bakushin_o.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_chiyono_o.png",
+      "PackagePath": "staticwebassets\\images\\sakura_chiyono_o.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\satono_diamond.png",
+      "PackagePath": "staticwebassets\\images\\satono_diamond.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\seiun_sky.png",
+      "PackagePath": "staticwebassets\\images\\seiun_sky.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\silent_suzuka.png",
+      "PackagePath": "staticwebassets\\images\\silent_suzuka.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\special_week.png",
+      "PackagePath": "staticwebassets\\images\\special_week.png"
+    },
+    {
+      "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\super_creek.png",
+      "PackagePath": "staticwebassets\\images\\super_creek.png"
     },
     {
       "Id": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\tokai_teio_01.png",

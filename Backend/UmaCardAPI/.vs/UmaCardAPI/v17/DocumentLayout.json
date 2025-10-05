@@ -82,8 +82,7 @@
               "RelativeToolTip": "UmaCardAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-30T04:13:24.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T04:13:24.923Z"
             },
             {
               "$type": "Document",
@@ -117,7 +116,7 @@
               "RelativeDocumentMoniker": "UmaCardAPI\\Program.cs",
               "ToolTip": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\Program.cs",
               "RelativeToolTip": "UmaCardAPI\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAqwEkAAACCAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T15:25:05.254Z",
               "EditorCaption": ""

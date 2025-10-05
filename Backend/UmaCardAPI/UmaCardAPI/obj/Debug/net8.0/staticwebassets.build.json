@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FufGGgstlsdIrg5VoAvN+afdaHDZ8QsI02fa+C+BWm4=",
+  "Hash": "4CEVCAbs5MbrHHp7TV+7pDzi6LwiVSccfUFLQuAuVaQ=",
   "Source": "UmaCardAPI",
   "BasePath": "_content/UmaCardAPI",
   "Mode": "Default",
@@ -16,6 +16,90 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\fine_motion.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/fine_motion#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dsf8j475f",
+      "Integrity": "o44M4bBFKSvzIVmelrbniorgSlusNfcgBpbu/gh/7C8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fine_motion.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\gold_city.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/gold_city#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2lqljdycd7",
+      "Integrity": "1uDUm7qfp+pEn7jPM0Pxl4ISzEB82y+VBhmVxHvTZHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gold_city.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\haru_urara.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/haru_urara#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37mkkjq2t5",
+      "Integrity": "X41unwXtZ/IeqsU3roZ8u3Kvzx36p9Px3SzkPos7yJI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\haru_urara.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kawakami_princess.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/kawakami_princess#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qz9wmbj3cj",
+      "Integrity": "lswge4PHLplogaPgzdODWx8HDDTqKJoQwGdzAZONFxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kawakami_princess.png"
+    },
     {
       "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kitasan_black_01.png",
       "SourceId": "UmaCardAPI",
@@ -38,6 +122,27 @@
       "OriginalItemSpec": "wwwroot\\images\\kitasan_black_01.png"
     },
     {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_dober.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/mejiro_dober#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7js00wjqgh",
+      "Integrity": "c8D5FiaAdgwhmo/5+RIAQj5jVC7Hwx9OgQ0mx1h2aDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mejiro_dober.png"
+    },
+    {
       "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_mcqueen_01.png",
       "SourceId": "UmaCardAPI",
       "SourceType": "Discovered",
@@ -57,6 +162,195 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\mejiro_mcqueen_01.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\nishino_flower.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/nishino_flower#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8nb06r2sjn",
+      "Integrity": "9GylNL2imgl3f0eQX/SOtwfZikwyD4yUvtyViIyKI6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nishino_flower.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\oguri_cap.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/oguri_cap#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yeol17lmt4",
+      "Integrity": "2lvWMwB1zIMW/uhbAhyzYQmRqP/0YqeB6X3jwTrDAkk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\oguri_cap.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_bakushin_o.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/sakura_bakushin_o#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "np1gigeh0x",
+      "Integrity": "VeFzP7M/zoO0BRqbi5az0K3BaNSu8S8OQ/I0amqpfns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sakura_bakushin_o.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_chiyono_o.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/sakura_chiyono_o#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uxggdv9j2z",
+      "Integrity": "whKX0Or71oFf57V/xF1evtei0gPZkNNgzGbwCijfjg8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sakura_chiyono_o.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\satono_diamond.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/satono_diamond#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wknxp5c7pp",
+      "Integrity": "YJ1cwM+e+nvCt3KMErwNVx6uhnJvtfkyJYqYa4TpE+0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\satono_diamond.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\seiun_sky.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/seiun_sky#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jcwsbquz00",
+      "Integrity": "w8V53HACb0VRPlBZvCk1hfaRE6qudMIZXmv+PPHyzYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\seiun_sky.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\silent_suzuka.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/silent_suzuka#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5gyz7159p1",
+      "Integrity": "28tftFs1gfzBUA5id6fyXcmTSD6kxJtMdFKiIAXo89E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\silent_suzuka.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\special_week.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/special_week#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lhszlp7o60",
+      "Integrity": "B9zcMuoS+07Gd7cAFiqnbbm6jCmYRDJ9sVyV6IF61vs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\special_week.png"
+    },
+    {
+      "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\super_creek.png",
+      "SourceId": "UmaCardAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\",
+      "BasePath": "_content/UmaCardAPI",
+      "RelativePath": "images/super_creek#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f71uhdm51o",
+      "Integrity": "Zfm49CN44i6VomsY8zAO3kKsMeOvGtiqJvoEt9veaMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\super_creek.png"
     },
     {
       "Identity": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\tokai_teio_01.png",
@@ -102,6 +396,334 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "images/fine_motion.9dsf8j475f.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\fine_motion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o44M4bBFKSvzIVmelrbniorgSlusNfcgBpbu/gh/7C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dsf8j475f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fine_motion.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o44M4bBFKSvzIVmelrbniorgSlusNfcgBpbu/gh/7C8="
+        }
+      ]
+    },
+    {
+      "Route": "images/fine_motion.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\fine_motion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o44M4bBFKSvzIVmelrbniorgSlusNfcgBpbu/gh/7C8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:21:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o44M4bBFKSvzIVmelrbniorgSlusNfcgBpbu/gh/7C8="
+        }
+      ]
+    },
+    {
+      "Route": "images/gold_city.2lqljdycd7.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\gold_city.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1uDUm7qfp+pEn7jPM0Pxl4ISzEB82y+VBhmVxHvTZHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2lqljdycd7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gold_city.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1uDUm7qfp+pEn7jPM0Pxl4ISzEB82y+VBhmVxHvTZHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/gold_city.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\gold_city.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1uDUm7qfp+pEn7jPM0Pxl4ISzEB82y+VBhmVxHvTZHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1uDUm7qfp+pEn7jPM0Pxl4ISzEB82y+VBhmVxHvTZHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/haru_urara.37mkkjq2t5.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\haru_urara.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X41unwXtZ/IeqsU3roZ8u3Kvzx36p9Px3SzkPos7yJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37mkkjq2t5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/haru_urara.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X41unwXtZ/IeqsU3roZ8u3Kvzx36p9Px3SzkPos7yJI="
+        }
+      ]
+    },
+    {
+      "Route": "images/haru_urara.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\haru_urara.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X41unwXtZ/IeqsU3roZ8u3Kvzx36p9Px3SzkPos7yJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X41unwXtZ/IeqsU3roZ8u3Kvzx36p9Px3SzkPos7yJI="
+        }
+      ]
+    },
+    {
+      "Route": "images/kawakami_princess.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kawakami_princess.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lswge4PHLplogaPgzdODWx8HDDTqKJoQwGdzAZONFxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lswge4PHLplogaPgzdODWx8HDDTqKJoQwGdzAZONFxE="
+        }
+      ]
+    },
+    {
+      "Route": "images/kawakami_princess.qz9wmbj3cj.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kawakami_princess.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lswge4PHLplogaPgzdODWx8HDDTqKJoQwGdzAZONFxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qz9wmbj3cj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/kawakami_princess.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lswge4PHLplogaPgzdODWx8HDDTqKJoQwGdzAZONFxE="
+        }
+      ]
+    },
     {
       "Route": "images/kitasan_black_01.beg9rvaazu.png",
       "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\kitasan_black_01.png",
@@ -185,6 +807,88 @@
       ]
     },
     {
+      "Route": "images/mejiro_dober.7js00wjqgh.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_dober.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c8D5FiaAdgwhmo/5+RIAQj5jVC7Hwx9OgQ0mx1h2aDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7js00wjqgh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mejiro_dober.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c8D5FiaAdgwhmo/5+RIAQj5jVC7Hwx9OgQ0mx1h2aDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/mejiro_dober.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_dober.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c8D5FiaAdgwhmo/5+RIAQj5jVC7Hwx9OgQ0mx1h2aDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c8D5FiaAdgwhmo/5+RIAQj5jVC7Hwx9OgQ0mx1h2aDo="
+        }
+      ]
+    },
+    {
       "Route": "images/mejiro_mcqueen_01.bniesvb06i.png",
       "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\mejiro_mcqueen_01.png",
       "Selectors": [],
@@ -263,6 +967,744 @@
         {
           "Name": "integrity",
           "Value": "sha256-GYJqoIiYzy7htIAb7gNIJWsBys2NglNudTO6L3KXJnE="
+        }
+      ]
+    },
+    {
+      "Route": "images/nishino_flower.8nb06r2sjn.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\nishino_flower.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GylNL2imgl3f0eQX/SOtwfZikwyD4yUvtyViIyKI6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8nb06r2sjn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nishino_flower.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GylNL2imgl3f0eQX/SOtwfZikwyD4yUvtyViIyKI6Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/nishino_flower.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\nishino_flower.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GylNL2imgl3f0eQX/SOtwfZikwyD4yUvtyViIyKI6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GylNL2imgl3f0eQX/SOtwfZikwyD4yUvtyViIyKI6Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/oguri_cap.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\oguri_cap.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2lvWMwB1zIMW/uhbAhyzYQmRqP/0YqeB6X3jwTrDAkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:20:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2lvWMwB1zIMW/uhbAhyzYQmRqP/0YqeB6X3jwTrDAkk="
+        }
+      ]
+    },
+    {
+      "Route": "images/oguri_cap.yeol17lmt4.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\oguri_cap.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2lvWMwB1zIMW/uhbAhyzYQmRqP/0YqeB6X3jwTrDAkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:20:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yeol17lmt4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/oguri_cap.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2lvWMwB1zIMW/uhbAhyzYQmRqP/0YqeB6X3jwTrDAkk="
+        }
+      ]
+    },
+    {
+      "Route": "images/sakura_bakushin_o.np1gigeh0x.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_bakushin_o.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeFzP7M/zoO0BRqbi5az0K3BaNSu8S8OQ/I0amqpfns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "np1gigeh0x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sakura_bakushin_o.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeFzP7M/zoO0BRqbi5az0K3BaNSu8S8OQ/I0amqpfns="
+        }
+      ]
+    },
+    {
+      "Route": "images/sakura_bakushin_o.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_bakushin_o.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeFzP7M/zoO0BRqbi5az0K3BaNSu8S8OQ/I0amqpfns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeFzP7M/zoO0BRqbi5az0K3BaNSu8S8OQ/I0amqpfns="
+        }
+      ]
+    },
+    {
+      "Route": "images/sakura_chiyono_o.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_chiyono_o.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"whKX0Or71oFf57V/xF1evtei0gPZkNNgzGbwCijfjg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-whKX0Or71oFf57V/xF1evtei0gPZkNNgzGbwCijfjg8="
+        }
+      ]
+    },
+    {
+      "Route": "images/sakura_chiyono_o.uxggdv9j2z.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\sakura_chiyono_o.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"whKX0Or71oFf57V/xF1evtei0gPZkNNgzGbwCijfjg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uxggdv9j2z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sakura_chiyono_o.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-whKX0Or71oFf57V/xF1evtei0gPZkNNgzGbwCijfjg8="
+        }
+      ]
+    },
+    {
+      "Route": "images/satono_diamond.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\satono_diamond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJ1cwM+e+nvCt3KMErwNVx6uhnJvtfkyJYqYa4TpE+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJ1cwM+e+nvCt3KMErwNVx6uhnJvtfkyJYqYa4TpE+0="
+        }
+      ]
+    },
+    {
+      "Route": "images/satono_diamond.wknxp5c7pp.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\satono_diamond.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJ1cwM+e+nvCt3KMErwNVx6uhnJvtfkyJYqYa4TpE+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wknxp5c7pp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/satono_diamond.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJ1cwM+e+nvCt3KMErwNVx6uhnJvtfkyJYqYa4TpE+0="
+        }
+      ]
+    },
+    {
+      "Route": "images/seiun_sky.jcwsbquz00.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\seiun_sky.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8V53HACb0VRPlBZvCk1hfaRE6qudMIZXmv+PPHyzYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcwsbquz00"
+        },
+        {
+          "Name": "label",
+          "Value": "images/seiun_sky.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w8V53HACb0VRPlBZvCk1hfaRE6qudMIZXmv+PPHyzYo="
+        }
+      ]
+    },
+    {
+      "Route": "images/seiun_sky.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\seiun_sky.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8V53HACb0VRPlBZvCk1hfaRE6qudMIZXmv+PPHyzYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:23:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w8V53HACb0VRPlBZvCk1hfaRE6qudMIZXmv+PPHyzYo="
+        }
+      ]
+    },
+    {
+      "Route": "images/silent_suzuka.5gyz7159p1.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\silent_suzuka.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28tftFs1gfzBUA5id6fyXcmTSD6kxJtMdFKiIAXo89E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5gyz7159p1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/silent_suzuka.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-28tftFs1gfzBUA5id6fyXcmTSD6kxJtMdFKiIAXo89E="
+        }
+      ]
+    },
+    {
+      "Route": "images/silent_suzuka.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\silent_suzuka.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"28tftFs1gfzBUA5id6fyXcmTSD6kxJtMdFKiIAXo89E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:21:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-28tftFs1gfzBUA5id6fyXcmTSD6kxJtMdFKiIAXo89E="
+        }
+      ]
+    },
+    {
+      "Route": "images/special_week.lhszlp7o60.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\special_week.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B9zcMuoS+07Gd7cAFiqnbbm6jCmYRDJ9sVyV6IF61vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lhszlp7o60"
+        },
+        {
+          "Name": "label",
+          "Value": "images/special_week.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B9zcMuoS+07Gd7cAFiqnbbm6jCmYRDJ9sVyV6IF61vs="
+        }
+      ]
+    },
+    {
+      "Route": "images/special_week.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\special_week.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B9zcMuoS+07Gd7cAFiqnbbm6jCmYRDJ9sVyV6IF61vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B9zcMuoS+07Gd7cAFiqnbbm6jCmYRDJ9sVyV6IF61vs="
+        }
+      ]
+    },
+    {
+      "Route": "images/super_creek.f71uhdm51o.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\super_creek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zfm49CN44i6VomsY8zAO3kKsMeOvGtiqJvoEt9veaMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:21:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f71uhdm51o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/super_creek.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zfm49CN44i6VomsY8zAO3kKsMeOvGtiqJvoEt9veaMg="
+        }
+      ]
+    },
+    {
+      "Route": "images/super_creek.png",
+      "AssetFile": "D:\\BM\\Code\\Uma card\\Backend\\UmaCardAPI\\UmaCardAPI\\wwwroot\\images\\super_creek.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103179"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zfm49CN44i6VomsY8zAO3kKsMeOvGtiqJvoEt9veaMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Oct 2025 14:21:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zfm49CN44i6VomsY8zAO3kKsMeOvGtiqJvoEt9veaMg="
         }
       ]
     },

@@ -37,11 +37,9 @@ try
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     db.Database.Migrate();
 
-    if (!db.UmaCards.Any())
+    var newCards = new[]
     {
-        db.UmaCards.AddRange(new[]
-        {
-            new UmaCard
+    new UmaCard
             {
                 Name = "Special Tokai Teio",
                 OutfitType = "Race",
@@ -72,9 +70,17 @@ try
             new UmaCard { Name = "Nishino Flower", OutfitType = "Race", Type = "Speed", ImageUrl = "/images/nishino_flower.png" },
             new UmaCard { Name = "Gold City", OutfitType = "Race", Type = "Speed", ImageUrl = "/images/gold_city.png" },
             new UmaCard { Name = "Kitasan Black", OutfitType = "Race", Type = "Speed", ImageUrl = "/images/kitasan_black_01.png" }
-        });
-        db.SaveChanges();
+    };
+
+    foreach (var card in newCards)
+    {
+        if (!db.UmaCards.Any(c => c.Name == card.Name))
+        {
+            db.UmaCards.Add(card);
+        }
     }
+    db.SaveChanges();
+
 }
 catch (Exception ex)
 {
