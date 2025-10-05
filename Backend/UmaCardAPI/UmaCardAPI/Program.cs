@@ -180,7 +180,13 @@ try
 
     foreach (var card in newCards)
     {
-        if (!db.UmaCards.Any(c => c.Name == card.Name))
+        var existing = db.UmaCards.FirstOrDefault(c => c.Name == card.Name);
+        if (existing != null)
+        {
+            existing.Description = card.Description; // update description
+            existing.Type = card.Type;               // update type nếu cần
+        }
+        else
         {
             db.UmaCards.Add(card);
         }
